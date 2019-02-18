@@ -60,7 +60,11 @@ public interface ProductDao {
      */
     List<Product> selectProductByCategory(@Param("cId") int CId);
 
-
+    /**
+     * 查找全部商品
+     *
+     * @return
+     */
     List<Product> selectProductAll();
 
 
