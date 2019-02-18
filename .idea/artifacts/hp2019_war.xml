@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hp2019:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/hp2019_war</output-path>
+    <root id="archive" name="hp2019_war.war">
+      <element id="artifact" artifact-name="hp2019:war exploded" />
+    </root>
+  </artifact>
+</component>

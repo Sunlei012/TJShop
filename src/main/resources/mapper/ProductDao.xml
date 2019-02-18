@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hp.shop.dao.ProductDao">
+
+    <insert id="insertProduct">
+
+    </insert>
+
+    <update id="updateProduct">
+
+    </update>
+
+    <delete id="deleteProduct">
+
+    </delete>
+
+    <select id="selectProductByNameOrSub">
+
+    </select>
+
+    <select id="selectProductByCategory">
+
+    </select>
+
+    <select id="selectProductAll">
+
+    </select>
+
+</mapper>
